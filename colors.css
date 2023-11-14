@@ -1,0 +1,15 @@
+body{
+    background-color:#e0c3ef72 ;
+}
+h1{
+    color: rgba(137, 43, 226, 0.856); text-align: center;font-style: oblique; 
+}
+.para1{
+    border-width: 2%; border-style: double; border-color: blueviolet; background-color: rgb(197, 157, 235); margin: 3%; padding: 3%; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: hsl(294, 35%, 39%);
+}
+#para2{
+    border-width: 2%; border-style: dashed; border-color: rgb(111, 11, 205); margin-left: 20%;margin-right: 20%; padding: 3%; color: rgba(159, 28, 225, 0.961); background-image: url(./images/background.jpg); background-repeat:repeat-x; 
+}
+#para2:hover{
+    background-image: url(./images/bg2.jpg); 
+}
